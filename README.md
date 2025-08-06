@@ -2,10 +2,6 @@
 
 A fully responsive, modern fintech website built with HTML5 and CSS3, featuring advanced design techniques and smooth user interactions.
 
-## 🚀 Live Demo
-
-[View Live Website](https://github.com/KimoStore/Static-website-cloning-Ehab)
-
 ## 📋 Project Overview
 
 This project is a complete recreation of a modern fintech website design, featuring multiple sections with advanced CSS techniques including gradient backgrounds, floating elements, triangular image masking, and smooth scroll navigation.
@@ -176,19 +172,6 @@ This project demonstrates proficiency in:
 - Professional UI/UX implementation
 - Clean, semantic HTML structure
 - Cross-browser compatibility
-
-## 🌟 Key Achievements
-
-- **Zero JavaScript** - Pure CSS animations and interactions
-- **Pixel-perfect design** - Accurate recreation of modern fintech aesthetics
-- **Performance optimized** - Efficient CSS and minimal HTTP requests
-- **Accessibility focused** - Semantic HTML and proper contrast ratios
-- **Modern browser support** - Utilizing cutting-edge CSS features
-
-## 📞 Contact
-
-**Developer**: KimoStore  
-**GitHub**: [@KimoStore](https://github.com/KimoStore)
 
 ## 📄 License
 
